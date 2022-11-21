@@ -1,0 +1,14 @@
+.firstBlock {
+    width: 100px;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 1px gray;
+}
+
+.twoBlock {
+    width: 100px;
+    height: 20px;
+    border-radius: 3px;
+    border: solid 1px gray;
+    background: #e7fdd8;
+}
